@@ -181,6 +181,7 @@ function newGame() {
 
    })
 }
+```
 
 
 #project 5 solution
